@@ -353,7 +353,7 @@ a {
 .portfolio-item {
   box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.portfolio-img .cart-img {
+.portfolio-img {
   box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .portfolio-list {
@@ -470,6 +470,10 @@ a {
   display: flex;
   gap: 16px;
   justify-content: center;
+}
+
+.footer-socials-list {
+  width: 40px;
 }
 
 .footer-socials-link {
